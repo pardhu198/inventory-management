@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    int quantity = 150;
+
+    printf("Inventory Management System\n");
+    printf("Updated Stock: %d\n", quantity);
+
+    return 0;
+}
